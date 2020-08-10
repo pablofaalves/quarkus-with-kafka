@@ -1,0 +1,7 @@
+C:\Users\Zupper\Documents\Estudos\product-stock\domain\src\main\java\br\com\pfaa\quarkusstudy\domain\entity\Product.java
+C:\Users\Zupper\Documents\Estudos\product-stock\domain\src\main\java\br\com\pfaa\quarkusstudy\domain\usecase\IProductUseCase.java
+C:\Users\Zupper\Documents\Estudos\product-stock\domain\src\main\java\br\com\pfaa\quarkusstudy\domain\port\ISendProductCreationEventPort.java
+C:\Users\Zupper\Documents\Estudos\product-stock\domain\src\main\java\br\com\pfaa\quarkusstudy\domain\exception\ApplicationException.java
+C:\Users\Zupper\Documents\Estudos\product-stock\domain\src\main\java\br\com\pfaa\quarkusstudy\domain\exception\EntityNotFoundException.java
+C:\Users\Zupper\Documents\Estudos\product-stock\domain\src\main\java\br\com\pfaa\quarkusstudy\domain\port\IProductRespositoryPort.java
+C:\Users\Zupper\Documents\Estudos\product-stock\domain\src\main\java\br\com\pfaa\quarkusstudy\domain\service\ProductService.java

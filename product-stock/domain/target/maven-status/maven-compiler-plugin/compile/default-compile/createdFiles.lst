@@ -1,0 +1,8 @@
+br\com\pfaa\quarkusstudy\domain\exception\EntityNotFoundException.class
+br\com\pfaa\quarkusstudy\domain\entity\Product$ProductBuilder.class
+br\com\pfaa\quarkusstudy\domain\entity\Product.class
+br\com\pfaa\quarkusstudy\domain\port\IProductRespositoryPort.class
+br\com\pfaa\quarkusstudy\domain\service\ProductService.class
+br\com\pfaa\quarkusstudy\domain\usecase\IProductUseCase.class
+br\com\pfaa\quarkusstudy\domain\exception\ApplicationException.class
+br\com\pfaa\quarkusstudy\domain\port\ISendProductCreationEventPort.class

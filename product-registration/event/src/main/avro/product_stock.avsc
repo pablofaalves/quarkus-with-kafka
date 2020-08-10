@@ -1,0 +1,10 @@
+
+{
+  "namespace": "br.com.pfaa.quarkusstudy.event.model.avro",
+  "type": "record",
+  "name": "NewProductNotification",
+  "doc" : "Represents a Product available to stock",
+  "fields": [
+    {"name": "productId", "type": "long", "doc": "The product ID"}
+  ]
+}
